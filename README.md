@@ -1,2 +1,2 @@
 # pure-locale.js
-i18n localisation system
+Simple localisation and translations system.
