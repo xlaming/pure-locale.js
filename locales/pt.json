@@ -1,0 +1,7 @@
+{
+    "hello": "Olá Mundo",
+    "field": {
+        "name": "Nome",
+        "example": "Seu nome"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "hello": "Hol@ Mundo",
+    "field": {
+        "name": "Nombre",
+        "example": "Tu nombre"
+    }
+}
